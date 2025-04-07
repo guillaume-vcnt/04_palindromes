@@ -2,8 +2,7 @@
 
 ## À propos
 
-Cet exercice a pour but de détecter des dates palindromes, date que l’on peut donc lire dans les deux sens, sans prendre en compte le séparateur de date (/).
-Les dates sont aux formats dd/mm/yyyy.
+Cet exercice a pour but de détecter des dates palindromes, dates qui peuvent être lues dans les deux sens et  sans tenir compte du séparateur de date (/). Les dates sont aux formats dd/mm/yyyy.
 
 ## Caractéristiques
 
@@ -17,4 +16,4 @@ OS : Windows
 
 ## Utilisation
 
-S'exécute via la console
+S'exécute via un terminal
